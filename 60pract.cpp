@@ -1,0 +1,1 @@
+//min value find krne arr with -1
